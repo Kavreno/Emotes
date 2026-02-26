@@ -409,6 +409,8 @@ end
 AddEmote("Arm Wave", 5915773155)
 AddEmote("Head Banging", 5915779725)
 AddEmote("Face Calisthenics", 9830731012)
+AddEmote("Feel Special", 117697800352777)
+AddEmote("Tommy - Archer", 13823339506)
 
 --finished loading
 Loading:Destroy()
